@@ -1,7 +1,14 @@
+
+body {
+    background-color: #d9e2db;
+    margin: 0;
+    padding: 0;
+    color: #576359;
+}
 .nav-bar {
     display: grid;
-    height: 5vh;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    height: 8vh;
+    grid-template-columns:  1fr 1fr 1fr;
     background-color: #d9e2db;
 }
 .nav-btn{
@@ -22,4 +29,12 @@
 #content{
     background-color: #d9e2db;
     height: 100vh;
+    
+}
+.main-title{
+    justify-self: center;
+}
+p {
+    background-color:  #d9e2db;
+    margin: 0;
 }
