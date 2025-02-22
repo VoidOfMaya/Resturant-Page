@@ -1,11 +1,16 @@
 
 body {
-    background-color: #d9e2db;
+    background-color: rgb(217, 226, 219);
     margin: 0;
     padding: 0;
     color: #576359;
+    
+}
+li{
+    padding-top: 20px;
     list-style-type: none;
 }
+
 .nav-bar {
      
     display: grid;
