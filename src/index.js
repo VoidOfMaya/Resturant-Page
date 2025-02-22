@@ -11,6 +11,10 @@ const homeBtn = document.getElementById('home-btn');
 const menuBtn = document.getElementById('menu-btn');
 const contactBtn = document.getElementById('contact-btn');
 
+const nav = document.querySelector('.nav-bar');
+nav.style.position = 'fixed';
+nav.style.width = "100vw";
+
 
 
 //default page:
