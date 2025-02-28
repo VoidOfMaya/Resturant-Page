@@ -15,6 +15,7 @@ const contacInfo = [ '<li>Phone/Whatsapp: +000-000000000</li>',
 const contactList = document.createElement('ul');
 contactList.innerHTML = contacInfo.join('');
 contactList.style.color= 'white';
+
 contactList.style.justifySelf = 'center';
 contactList.style.alignSelf = 'center';
 
