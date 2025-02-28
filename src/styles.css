@@ -6,6 +6,10 @@ body {
     color: #576359;
     
 }
+img{
+    width: 200px;
+    height: auto;
+}
 li{
     padding-top: 20px;
     list-style-type: none;
