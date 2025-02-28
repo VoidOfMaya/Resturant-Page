@@ -100,7 +100,7 @@ infoParagraph.style.justifySelf = 'center';
 info.appendChild(infoTitle);
 info.appendChild(infoParagraph);
 info.addEventListener(`mouseover`,()=>{ 
-  info.style.backgroundColor = 'rgb(69, 75, 70';
+  info.style.backgroundColor = 'rgb(69, 75, 70)';
   infoParagraph.style.backgroundColor = 'rgb(69, 75, 70';
   info.style.color = 'white';
 });
