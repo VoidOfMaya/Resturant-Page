@@ -20,6 +20,7 @@ li{
     height: 8vh;
     grid-template-columns:  1fr 1fr 1fr;
     background-color: #d9e2db;
+    z-index: 1000;
 }
 .nav-btn{
     border: none;

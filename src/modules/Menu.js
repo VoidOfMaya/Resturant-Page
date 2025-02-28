@@ -60,6 +60,7 @@ for(let i = 0; i< menuItems.length; i++){
     card.style.display = 'grid';
     card.style.gridTemplateColumns = '2fr ';
     card.style.gridTemplateAreas = `'photo info'`;
+    card.style.gap = '10px';
 
     card.appendChild(cardPhoto);
     card.appendChild(cardInfo);
